@@ -226,7 +226,8 @@ pre {
     color: #fff;
     background: #000;
 }
-@media all and (min-width: 1000px) {
+/* Desktop */
+@media all and (min-width: 1024px) {
     #menu {
         display: block !important;
     }
@@ -240,7 +241,8 @@ pre {
         display: none !important;
     }
 }
-@media all and (max-width: 1000px) {
+/* Tablet */
+@media all and (max-width: 1024px) {
     #menu li:not(.logo) {
         width: 100%;
         display: none;
@@ -262,6 +264,7 @@ pre {
         width: 100%;
     }
 }
+/* Mobile */
 @media all and (max-width: 768px) {
     .content-section {
         padding: 18px 10px;

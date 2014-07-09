@@ -163,6 +163,12 @@ h1, h2, h3, quote {
 .thanks {
     margin: 75px 0;
 }
+.centered {
+    font-size: 0.9em;
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px 0;
+}
 .code-title {
     position: relative;
     top: -16px;

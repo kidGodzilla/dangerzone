@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html>
 <head>
@@ -14,16 +15,16 @@
         <ul class="full">
             <li class="logo"><a href="#" onclick=""><i class="fa fa-home"></i> &nbsp;WEB 130 &nbsp;<i class="fa fa-caret-down"></i></i></a>
                 <ul class="matchwidth">
-                    <li><a href="index.html"><i class="fa fa-home"></i> &nbsp;home</a></li>
-                    <li><a href="about.html"><i class="fa fa-tachometer"></i> &nbsp;about</a></li>
-                    <li><a href="contact.html"><i class="fa fa-comments"></i> &nbsp;contact</a></li>
+                    <li><a href="index.php"><i class="fa fa-home"></i> &nbsp;home</a></li>
+                    <li><a href="about.php"><i class="fa fa-tachometer"></i> &nbsp;about</a></li>
+                    <li><a href="contact.php"><i class="fa fa-comments"></i> &nbsp;contact</a></li>
                 </ul>
             </li>
             <li><a href="#" class="hasChildren mobile-only">WEB 130 &nbsp;<i class="fa fa-caret-down"></i></a>
                 <ul>
-                    <li><a href="index.html"><i class="fa fa-home"></i> &nbsp;home</a></li>
-                    <li><a href="about.html"><i class="fa fa-tachometer"></i> &nbsp;about</a></li>
-                    <li><a href="contact.html"><i class="fa fa-comments"></i> &nbsp;contact</a></li>
+                    <li><a href="index.php"><i class="fa fa-home"></i> &nbsp;home</a></li>
+                    <li><a href="about.php"><i class="fa fa-tachometer"></i> &nbsp;about</a></li>
+                    <li><a href="contact.php"><i class="fa fa-comments"></i> &nbsp;contact</a></li>
                 </ul>
             </li>
                     <span class="pull-right">
@@ -79,24 +80,3 @@
     </div>
     <div class="clear"></div>
 </nav>
-<section class="content-section">
-    <h1>Contact </h1>
-
-    <p><button class="button" onclick="var n = prompt('What be your name, master?');alert('Greetings, '+n);$(this).html('Greetings, '+n);">Greet Me, Slave!</button></p>
-
-    <hr style="opacity:0.2;margin:50px;">
-    <div class="author">
-        <img class="face" src="http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,h_540,w_720/eig9tzk9svfhr6tshsox.jpg">
-        <div>
-            <i><strong>Web Developer</strong></i>
-            <h3>JAMES FUTHEY</h3>
-            <a href="#">@dgamr</a>
-        </div>
-    </div>
-    <p class="thanks">Thanks for reading!</p>
-</section>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script type="text/javascript" src="highlighter.js"></script>
-<script type="text/javascript" src="js/app.js"></script>
-</body>
-</html>

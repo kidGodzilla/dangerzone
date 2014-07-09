@@ -262,3 +262,8 @@ pre {
         width: 100%;
     }
 }
+@media all and (max-width: 768px) {
+    .content-section {
+        padding: 18px 10px;
+    }
+}

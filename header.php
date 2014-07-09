@@ -17,6 +17,7 @@
                 <ul class="matchwidth">
                     <li><a href="index.php"><i class="fa fa-home"></i> &nbsp;home</a></li>
                     <li><a href="about.php"><i class="fa fa-tachometer"></i> &nbsp;about</a></li>
+                    <li><a href="http://github.com/KidGodzilla/dangerzone"><i class="fa fa-github"></i> &nbsp;github</a></li>
                     <li><a href="contact.php"><i class="fa fa-comments"></i> &nbsp;contact</a></li>
                 </ul>
             </li>
@@ -24,6 +25,7 @@
                 <ul>
                     <li><a href="index.php"><i class="fa fa-home"></i> &nbsp;home</a></li>
                     <li><a href="about.php"><i class="fa fa-tachometer"></i> &nbsp;about</a></li>
+                    <li><a href="http://github.com/KidGodzilla/dangerzone"><i class="fa fa-github"></i> &nbsp;github</a></li>
                     <li><a href="contact.php"><i class="fa fa-comments"></i> &nbsp;contact</a></li>
                 </ul>
             </li>

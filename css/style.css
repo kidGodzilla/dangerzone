@@ -2,7 +2,7 @@
 //border: 1px solid red !important;
 }
 body {
-    font-family: 'Titillium Web', Helvetica, Arial, sans-serif;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
     -webkit-text-stroke: 1px rgba(255,255,255,0.3);
     -webkit-font-smoothing: antialiased;
     background-color: #f3f3f3;
@@ -203,7 +203,7 @@ pre {
     padding: 11px 11px 11px 21px;
 }
 .matchwidth {
-    width: 171px;
+    width: 182px;
 }
 .clear {
     clear: both;

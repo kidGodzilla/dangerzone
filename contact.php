@@ -2,7 +2,7 @@
 <section class="content-section">
     <h1>Contact </h1>
 
-    <p><button class="button" onclick="var n = prompt('What be your name, master?');alert('Greetings, '+n);$(this).html('Greetings, '+n);">Greet Me, Slave!</button></p>
+    <p><button class="button" onclick="var n = prompt('What be your name, master?');if(n){alert('Greetings, '+n);$(this).html('Greetings, '+n);}">Greet Me, Slave!</button></p>
 
     <hr style="opacity:0.2;margin:50px;">
     <div class="author">

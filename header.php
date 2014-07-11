@@ -6,7 +6,8 @@
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800" rel="stylesheet" type="text/css">
     <link href='http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
     <link href='highlighter.css' rel='stylesheet' type='text/css'>
-    <link href='css/style.css' rel='stylesheet' type='text/css'>
+    <!--<link href='css/style.css' rel='stylesheet' type='text/css'>-->
+    <link rel="stylesheet/less" href="less/style.less">
 </head>
 <body>
 <nav class="container" id="menu">
@@ -30,7 +31,7 @@
                 </ul>
             </li>
                     <span class="pull-right">
-                        <li><a href="#" class="hasChildren">css3 &nbsp;<i class="fa fa-caret-down"></i></a>
+                        <!--<li><a href="#" class="hasChildren">css3 &nbsp;<i class="fa fa-caret-down"></i></a>
                             <ul>
                                 <li><a href="#">review</a></li>
                                 <li><a href="#">CSS Transforms</a></li>
@@ -55,15 +56,15 @@
                                 <li><a href="#">twitter bootstrap</a></li>
                                 <li><a href="#">Zurb foundation</a></li>
                             </ul>
-                        </li>
+                        </li>-->
                         <li><a href="#" class="hasChildren">less &nbsp;<i class="fa fa-caret-down"></i></a>
                             <ul>
-                                <li><a href="#">Introduction</a></li>
-                                <li><a href="#">Variables, Mixins, Nesting</a></li>
-                                <li><a href="#">Functions & beyond</a></li>
+                                <li><a href="less.php">Introduction</a></li>
+                                <li><a href="less-2.php">Variables, Mixins, Nesting</a></li>
+                                <!--<li><a href="less-3.php">Functions & beyond</a></li>-->
                             </ul>
                         </li>
-                        <li><a href="#" class="hasChildren">jquery &nbsp;<i class="fa fa-caret-down"></i></a>
+                        <!--<li><a href="#" class="hasChildren">jquery &nbsp;<i class="fa fa-caret-down"></i></a>
                             <ul>
                                 <li><a href="#">Accessing & Inserting elements</a></li>
                                 <li><a href="#">Modifying Elements</a></li>
@@ -76,7 +77,7 @@
                                 <li><a href="#">lists</a></li>
                             </ul>
                         </li>
-                        <li><a href="#">seo</a></li>
+                        <li><a href="#">seo</a></li>-->
                     </span>
         </ul>
     </div>
